@@ -48,4 +48,18 @@ h5 {
 }
 /* // variazione font */
 
+/* Colorazione Tabella */
+.intestazione-tabella {
+    background-color: cornflowerblue;
+}
+
+.corpo-tabella-color1 {
+    background-color: rgba(127, 229, 255, 0.274);
+}
+
+.corpo-tabella-color2 {
+    background-color: rgba(127, 229, 255, 0.082);
+}
+/* // Colorazione Tabella */
+
 
