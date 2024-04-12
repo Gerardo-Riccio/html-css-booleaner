@@ -3,6 +3,9 @@
 }
 
 
+main {
+    margin:25px;
+}
 
 header {
     background-color: rgb(156, 214, 244);  
@@ -12,8 +15,17 @@ header {
 }
 
 
-
+/* aggiunta di vari padding */
 #contenitore-logo-header {
     width: 240px;
 }
+
+#data-publicazione, #photo-paul, p, ul, table {
+    padding-bottom: 25px;
+}
+
+ul {
+    padding-left: 15px;
+}
+/* // aggiunta di vari padding */
 
