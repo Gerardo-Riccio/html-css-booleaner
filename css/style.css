@@ -35,6 +35,11 @@ footer {
 ul {
     padding-left: 15px;
 }
+
+.intestazione-tabella { /* provvisorio, in attesa di poter usare i Layout, infatti non è nemmeno responsive */
+    padding-right: 55px;
+}
+
 /* // aggiunta di vari padding */
 /* ------------------------------------------------------------------- */
 /* variazione font */
