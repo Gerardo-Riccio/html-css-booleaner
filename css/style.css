@@ -53,6 +53,10 @@ h5 {
 .intestazione-tabella {
     color: antiquewhite;
 }
+
+#frase-in-giallo {
+    background-color: yellow;
+}
 /* // variazione font */
 /* ------------------------------------------------------------------- */
 /* Colorazione Tabella */
