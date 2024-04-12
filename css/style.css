@@ -36,6 +36,10 @@ ul {
     padding-left: 15px;
 }
 
+main {
+    margin-bottom: 0px;
+}
+
 .intestazione-tabella { /* provvisorio, in attesa di poter usare i Layout, infatti non è nemmeno responsive */
     padding-right: 55px;
 }
