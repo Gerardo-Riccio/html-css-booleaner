@@ -1,0 +1,19 @@
+﻿* {
+    margin: 0px;
+}
+
+
+
+header {
+    background-color: rgb(156, 214, 244);  
+    padding-top: 48px;      /* pixel rilevati con photopea */
+    padding-bottom: 48px;   /* pixel rilevati con photopea */
+    padding-left: 17px;     /* pixel rilevati con photopea */
+}
+
+
+
+#contenitore-logo-header {
+    width: 240px;
+}
+
