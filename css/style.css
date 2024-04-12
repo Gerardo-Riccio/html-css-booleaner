@@ -29,3 +29,23 @@ ul {
 }
 /* // aggiunta di vari padding */
 
+
+/* variazione font */
+h5 {
+    color: darkgray;
+}
+
+#Autore {
+    color: rgb(69, 130, 243);
+    font-style: italic;
+}
+#data-publicazione, .info-foto {
+    font-size: 10px;
+}
+
+.intestazione-tabella {
+    color: antiquewhite;
+}
+/* // variazione font */
+
+
